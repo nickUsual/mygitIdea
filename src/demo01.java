@@ -8,6 +8,7 @@ public class demo01 {
         System.out.println("请输入你想要改变的字符");
         String s = sc.nextLine();
         System.out.println(myReverse(s));
+        System.out.println(myReverse(s));
 
     }
 
